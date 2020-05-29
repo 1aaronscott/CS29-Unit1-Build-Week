@@ -1,1 +1,1 @@
-[INSERT BLOG LINK]()
+[BLOG LINK](https://aaronscotthq.com/2020-05-28-scott_dbscan/)
